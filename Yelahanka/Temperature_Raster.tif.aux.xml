@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">14833.85</MDI>
+      <MDI key="STATISTICS_MEAN">14765.695454545</MDI>
+      <MDI key="STATISTICS_MINIMUM">14714.85</MDI>
+      <MDI key="STATISTICS_STDDEV">24.518707649332</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
