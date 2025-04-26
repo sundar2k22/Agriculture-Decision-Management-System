@@ -1,4 +1,4 @@
-# Agriculture-Decision-Management-Syste# GEOTA Project: Comparative Study of Yelahanka and Sarjapur
+# GEOTA Project: Comparative Study of Yelahanka and Sarjapur
 
 ## Project Overview
 This project, part of the course on **Geospatial Technologies and Applications (GEOTA)**, presents a **comparative study** between two prominent regions of Bangalore:  
