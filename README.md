@@ -41,7 +41,7 @@ The objective was to analyze and understand the spatial characteristics, develop
   For his outstanding teamwork, dedication, and contributions, which were crucial to the success of this project.
 
 ## Project Presentation
-🔗 [View Project Presentation on Canva](https://www.canva.com/design/DAGj8tss3l4/oSLKzc5ZipTtRHbozEg9xA/edit?utm_content=DAGj8tss3l4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🔗 [View Project Presentation on Canva](https://www.canva.com/design/DAGj8tss3l4/VQi7tyEUtIFkFFEfzKn8aA/view?utm_content=DAGj8tss3l4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1d1d74d553)
 
 ---
 
