@@ -1,39 +1,47 @@
 # GEOTA Project: Comparative Study of Yelahanka and Sarjapur
 
 ## Project Overview
-This project, part of the course on **Geospatial Technologies and Applications (GEOTA)**, presents a **comparative study** between two prominent regions of Bangalore:  
+This project, part of the **Geospatial Technologies and Applications (GEOTA)** course, presents a **comparative study** between two prominent regions of Bangalore:  
 - **Yelahanka** (North Bangalore)  
 - **Sarjapur** (South Bangalore)
 
-The objective was to understand and analyze the spatial characteristics, development patterns, and geospatial trends between these two areas using modern GIS tools.
+The objective was to analyze and understand the spatial characteristics, development patterns, and geospatial trends of these two areas using modern GIS tools.
 
 ## Tools and Technologies
-- **QGIS Software**  
-  Extensively used for:
-  - Digitizing geospatial data
-  - Performing spatial analysis
-  - Visualizing, interpreting, and drawing meaningful conclusions from the datasets
+- **QGIS Software**
+  - Digitization of geospatial data
+  - Spatial analysis and calculations
+  - Visualization and interpretation of datasets
 
 ## Methodology
-1. **Data Collection and Preparation:**  
-   Acquired satellite imagery and relevant spatial datasets for Yelahanka and Sarjapur.
-   
-2. **Digitization:**  
-   Using QGIS, various thematic layers such as roads, water bodies, built-up areas, and vegetation cover were digitized for both regions.
+1. **Data Collection and Preparation**  
+   - Acquired satellite imagery and spatial datasets for Yelahanka and Sarjapur.
 
-3. **Spatial Analysis:**  
-   Conducted multiple geospatial analyses including area calculations, proximity analysis, and change detection.
+2. **Digitization**  
+   - Created thematic layers in QGIS including:
+     - Roads
+     - Water bodies
+     - Built-up areas
+     - Vegetation cover
 
-4. **Comparison and Conclusions:**  
-   A comparative assessment was done based on several spatial parameters to highlight differences and similarities between the two study areas.
+3. **Spatial Analysis**  
+   - Conducted analyses such as:
+     - Area calculations
+     - Proximity analysis
+     - Change detection
+
+4. **Comparison and Conclusions**  
+   - Performed a comparative study based on spatial parameters to highlight the differences and similarities between the two regions.
 
 ## Acknowledgements
-I would like to express my heartfelt gratitude to:
 - **Dr. Arun P V** (Course Instructor)  
-  for his invaluable guidance, mentorship, and constant support throughout the project.
-  
+  For his invaluable guidance, mentorship, and support throughout the project.
+
 - **Kache Nivas (S20220010092)**  
-  for being an amazing teammate and collaborator. This project would not have been possible without his dedication and contributions.
+  For his outstanding teamwork, dedication, and contributions, which were crucial to the success of this project.
+
+## Project Presentation
+🔗 [View Project Presentation on Canva](https://www.canva.com/design/DAGj8tss3l4/oSLKzc5ZipTtRHbozEg9xA/edit?utm_content=DAGj8tss3l4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
